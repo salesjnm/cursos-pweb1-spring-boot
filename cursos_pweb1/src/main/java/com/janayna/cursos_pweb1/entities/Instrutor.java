@@ -1,4 +1,4 @@
-package com.exemplo.cursos_pweb1.entities; 
+package com.janayna.cursos_pweb1.entities;
 
 import java.util.ArrayList;
 import java.util.List;
