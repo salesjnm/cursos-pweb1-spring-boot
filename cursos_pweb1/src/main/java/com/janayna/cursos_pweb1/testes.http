@@ -1,0 +1,12 @@
+### Cadastrar Instrutor
+POST http://localhost:8080/instrutores
+Content-Type: application/json
+
+{
+  "nome": "Carlos Eduardo",
+  "email": "carlos@example.com",
+  "biografia": "Especialista em Java."
+}
+
+### Listar Instrutores
+GET http://localhost:8080/instrutores
